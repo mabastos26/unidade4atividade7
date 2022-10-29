@@ -1,0 +1,19 @@
+.container-footer{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    color: #fff;
+    background-color: #444;
+    border-top: 3px solid rgb(12, 80, 39);
+    font-weight: bold;
+    height: 10vh;
+    padding-left: 20px;
+}
+
+.container-footer ul{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
